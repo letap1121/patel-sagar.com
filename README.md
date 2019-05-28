@@ -1,5 +1,5 @@
 # patel-sagar.com
-Source code from my personal website. Using HTML,CSS,javascript,jQuery
+Source code from my personal website. Using HTML, CSS, javascript, jQuery.
 
 # Home Page
 ![](ResumeWebsite/HomePage.PNG)
